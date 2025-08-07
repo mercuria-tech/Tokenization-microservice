@@ -1,0 +1,32 @@
+node_modules/
+dist/
+.env
+coverage/
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.tsbuildinfo
+
+/src/generated/prisma
+
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+# Cursor IDE configuration (keep local, don't upload to GitHub/Cloudflare)
+.cursor/
