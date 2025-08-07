@@ -372,7 +372,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏢 Enterprise
 
-For enterprise support, custom integrations, and white-label solutions, contact us at enterprise@yourcompany.com.
+For enterprise support, custom integrations, and white-label solutions, contact us at mks.alghafil@gmail.com.
 
 ### Enterprise Features
 - **Custom Branding**: White-label solution
